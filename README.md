@@ -8,13 +8,13 @@ Weather Dashboard is a weather application that allows users to get the weather 
 
 HTML, CSS, and javascript were used to build the webpage. Bootstrap, fontawesome, and google fonts were used for layout and design. One Call API and Geocoding API from openweathermap were used to pull data for the weather forecasts. Weather icons were generated from Github.io from Bas Milius, links will be attached below.
 
-https://github.com/basmilius/weather-icons
-https://basmilius.github.io/weather-icons/index-fill.html
+* https://github.com/basmilius/weather-icons
+* https://basmilius.github.io/weather-icons/index-fill.html
 
 ## Links
 
-https://github.com/ycheng2021/Weather-Dashboard
-https://ycheng2021.github.io/Weather-Dashboard/
+* https://github.com/ycheng2021/Weather-Dashboard
+* https://ycheng2021.github.io/Weather-Dashboard/
 
 ![](./assets/images/homePage.PNG)
 ![](./assets/images/boston.PNG)
